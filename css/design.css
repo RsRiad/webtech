@@ -1,0 +1,59 @@
+*{
+    background-color: beige;
+}
+.open-sans-new {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: bold;
+    font-variation-settings:
+      "width" 100;
+    color: brown;
+    font-size: 20px;
+  }
+.txt{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(184, 11, 40);
+}
+#reg-title{
+    text-align: center; /* positioning property*/
+    color: rgb(221, 114, 20);
+    font-size: 50px;
+}
+.tb{
+    margin: auto;
+}
+.sp{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    border-style:solid;
+    border-color: rgb(116, 221, 163);
+}
+td{
+    /* background: rgb(224, 201, 158); */
+    border-radius: 10px;
+}
+.btn ,#email, #phone,#confirmPassword,#password,#availableTime,#specialization,#address,#license {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    height: 30px;
+}
+#name{
+    margin-top: 20px;
+}
+.btn{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    border: 0;
+    color: black;
+    font-size: 20px;
+    background-color: rgb(145, 216, 156);
+    border-style: solid;
+}
+#nameerror{
+    color: brown;
+}
