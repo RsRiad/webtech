@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pet Website</title>
-    <link rel="stylesheet" href="./desi.css">
+    <link rel="stylesheet" href="desi.css">
 </head>
 
 <body>
     <header class="hero-section">
         <div class="hero-content">
-            <h1>Welcome to Pet Paradise</h1>
+            <h1>Meet Your Match</h1>
             <p>Find your perfect companion! Explore a wide range of adorable pets ready for adoption.</p>
             <button class="cta-button">Explore Pets</button>
         </div>
@@ -25,41 +25,65 @@
             <h2>Browse by Category</h2>
             <div class="category-list">
                 <div class="category-item">
-                    <img src="cat.png" alt="Cats">
+                    <img src="./images/Cat.webp" alt="Cats">
                     <h3>Cats</h3>
                 </div>
                 <div class="category-item">
-                    <img src="dog.png" alt="Dogs">
+                    <img src="./images/dog1.jpg" alt="Dogs">
                     <h3>Dogs</h3>
                 </div>
                 <div class="category-item">
-                    <img src="rabbit.png" alt="Rabbits">
+                    <img src="./images/rabbit.png" alt="Rabbits">
                     <h3>Rabbits</h3>
                 </div>
                 <div class="category-item">
-                    <img src="bird.png" alt="Birds">
+                    <img src="./images/bird.png" alt="Birds">
                     <h3>Birds</h3>
+                </div>
+                <div class="category-item">
+                    <img src="./images/fish2.png" alt="Birds">
+                    <h3>Fish</h3>
                 </div>
             </div>
         </section>
 
         <section class="featured-pets">
-            <h2>Featured Pets</h2>
+            <h2>Explore Pets</h2>
             <div class="pet-gallery">
                 <div class="pet-card">
-                    <img src="pet1.png" alt="Pet 1">
+                    <img src="./images/dog1.jpg" alt="Pet 1">
                     <h3>Fluffy</h3>
                 </div>
                 <div class="pet-card">
-                    <img src="pet2.png" alt="Pet 2">
+                    <img src="./images/st cat 3.jpg" alt="Pet 2">
                     <h3>Max</h3>
                 </div>
                 <div class="pet-card">
-                    <img src="pet3.png" alt="Pet 3">
+                    <img src="./images/st cat6.jpg" alt="Pet 3">
                     <h3>Bella</h3>
                 </div>
                 <div class="pet-card">
-                    <img src="pet4.png" alt="Pet 4">
+                    <img src="./images/st cat6.jpg" alt="Pet 4">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 5">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 6">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 7">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 9">
                     <h3>Charlie</h3>
                 </div>
             </div>
