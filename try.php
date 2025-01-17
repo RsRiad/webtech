@@ -85,6 +85,45 @@
                 <div class="pet-card">
                     <img src="./images/st cat6.jpg" alt="Pet 9">
                     <h3>Charlie</h3>
+                    <!-- <div class="pet-details">
+                        <p>Name: </p>
+                        <p>Age: </p>
+                        <p>Weight: </p>
+                        <p>Breed: </p>
+
+                    </div> -->
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
+                </div>
+                <div class="pet-card">
+                    <img src="./images/st cat6.jpg" alt="Pet 8">
+                    <h3>Charlie</h3>
                 </div>
             </div>
         </section>
